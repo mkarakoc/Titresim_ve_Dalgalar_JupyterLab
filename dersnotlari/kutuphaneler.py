@@ -59,7 +59,7 @@ mpl.rcParams.update(params)
 
 def course_title():
     TXT = \
-    ur"""
+    r"""
     <b>
     <font size="6" face='bold' color="blue">TİTREŞİM ve DALGAR / FİZ220 </font> 
     <br><br>
@@ -77,7 +77,7 @@ def course_title():
 
 def course_links(prevp, homep, nextp):
     HTMLCode = \
-    ur"""
+    r"""
     <!-- ******************************************************** -->
     <!-- **************** Kod hücrelerini sakla ***************** -->
     <!-- ******************************************************** -->
@@ -213,10 +213,10 @@ def wavPlayer(filepath):
     display(HTML(src))
 
 # LaTeX ifadelerini yazdırmak için
-def prinTeX(text, label=ur'', number=ur'\nonumber'):
-    if label==ur'': label = ur'label' + str(np.random.random()).replace('.','')
+def prinTeX(text, label=r'', number=r'\nonumber'):
+    if label==r'': label = r'label' + str(np.random.random()).replace('.','')
     MarkdownText = \
-    ur"""\begin{{align}}
+    r"""\begin{{align}}
          \label{{{label}}}
          {text} {number}
          \end{{align}}
@@ -224,8 +224,8 @@ def prinTeX(text, label=ur'', number=ur'\nonumber'):
     display(Markdown(MarkdownText))
 
 # sympy ifadelerini yazdırmak için
-def printS(sympyObj, formatS=ur'{} = {}', label=ur'', number=ur'\nonumber'):
+def printS(sympyObj, formatS=r'{} = {}', label=r'', number=r'\nonumber'):
     sympyObjLatex = tuple([sym.latex(s) for s in sympyObj])
-    if len(sympyObjLatex)==1: formatS = ur'{}'
+    if len(sympyObjLatex)==1: formatS = r'{}'
     prinTeX(formatS.format(*sympyObjLatex), number=number)
     
