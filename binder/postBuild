@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# https://github.com/ian-r-rose/binder-workspace-demo
+# Import the workspace into JupyterLab
+jupyter lab workspaces import /home/jovyan/binder/workspace.json

@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="120"
+   width="280"
+   version="1.1"
+   id="svg3787"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="LC_coupled_2.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     id="namedview3809"
+     showgrid="false"
+     inkscape:zoom="3.5355339"
+     inkscape:cx="116.64266"
+     inkscape:cy="90.181291"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5640"
+     borderlayer="false"
+     height="219px" />
+  <metadata
+     id="metadata3813">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3811" />
+  <!-- wires -->
+  <!-- Electric current arrow and label -->
+  <!-- Inductor -->
+  <!-- Capacitor -->
+  <g
+     id="g5380"
+     transform="matrix(0.5922,0,0,0.5922,130.72397,-56.16559)">
+    <g
+       transform="matrix(-1,0,0,1,118.80672,0.37756124)"
+       id="g5400-2">
+      <g
+         id="g5486"
+         transform="matrix(1.21,0,0,1.21,11.165956,-27.113041)">
+        <g
+           id="g5640"
+           transform="translate(17.304853,74.243401)">
+          <g
+             transform="matrix(-1,0,0,1,118.80672,-0.37756124)"
+             id="g5400">
+            <polyline
+               points="70,70 70,30 230,30 230,70"
+               style="fill:none;stroke:#000000;stroke-width:2"
+               id="polyline3789" />
+            <polyline
+               points="70,150 70,190 230,190 230,150"
+               style="fill:none;stroke:#000000;stroke-width:2"
+               id="polyline3791" />
+            <text
+               x="76.737587"
+               y="120"
+               font-size="24"
+               style="font-size:24px;fill:#000000;font-family:Verdana"
+               id="text3798">L</text>
+            <path
+               style="fill:none;stroke:#000000;stroke-width:2"
+               inkscape:connector-curvature="0"
+               id="capacitor"
+               d="m 230,70 0,35 m -20,0 40,0 m 0,10 -40,0 m 20,0 0,35" />
+            <text
+               x="182.32353"
+               y="118.6491"
+               font-size="24"
+               style="font-size:24px;fill:#000000;font-family:Verdana"
+               id="text3801">C</text>
+            <g
+               inkscape:label="Inductro"
+               transform="matrix(0,-1.4373005,1.1964491,0,-499.95069,675.20153)"
+               id="g4326">
+              <g
+                 transform="matrix(1.6841012,0,0,-1.9545391,-255.19473,1512.2662)"
+                 inkscape:label="Inductro"
+                 id="g4328-3">
+                <path
+                   d="m 360,530 h 13"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   inkscape:label="none"
+                   id="path4330-6"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="M 410,530 H 397"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   inkscape:label="none"
+                   id="path4332-7"
+                   inkscape:connector-curvature="0" />
+                <path
+                   d="m 379,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   sodipodi:cx="376"
+                   sodipodi:cy="530"
+                   sodipodi:end="3.1415927"
+                   sodipodi:open="true"
+                   sodipodi:rx="3"
+                   sodipodi:ry="3"
+                   sodipodi:start="0"
+                   sodipodi:type="arc"
+                   inkscape:label="arc"
+                   id="path4334-5" />
+                <path
+                   d="m 385,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   sodipodi:cx="382"
+                   sodipodi:cy="530"
+                   sodipodi:end="3.1415927"
+                   sodipodi:open="true"
+                   sodipodi:rx="3"
+                   sodipodi:ry="3"
+                   sodipodi:start="0"
+                   sodipodi:type="arc"
+                   inkscape:label="arc"
+                   id="path4336-3" />
+                <path
+                   d="m 391,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   sodipodi:cx="388"
+                   sodipodi:cy="530"
+                   sodipodi:end="3.1415927"
+                   sodipodi:open="true"
+                   sodipodi:rx="3"
+                   sodipodi:ry="3"
+                   sodipodi:start="0"
+                   sodipodi:type="arc"
+                   inkscape:label="arc"
+                   id="path4338-5" />
+                <path
+                   d="m 397,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                   style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                   sodipodi:cx="394"
+                   sodipodi:cy="530"
+                   sodipodi:end="3.1415927"
+                   sodipodi:open="true"
+                   sodipodi:rx="3"
+                   sodipodi:ry="3"
+                   sodipodi:start="0"
+                   sodipodi:type="arc"
+                   inkscape:label="arc"
+                   id="path4340-6" />
+              </g>
+            </g>
+          </g>
+          <polyline
+             points="70,70 70,30 230,30 230,70"
+             style="fill:none;stroke:#000000;stroke-width:2"
+             id="polyline3789-9" />
+          <polyline
+             points="70,150 70,190 230,190 230,150"
+             style="fill:none;stroke:#000000;stroke-width:2"
+             id="polyline3791-1" />
+          <text
+             x="-99.089714"
+             y="120"
+             font-size="24"
+             style="font-size:24px;fill:#000000;font-family:Verdana"
+             id="text3798-2"
+             transform="scale(-1,1)">L</text>
+          <path
+             style="fill:none;stroke:#000000;stroke-width:2"
+             inkscape:connector-curvature="0"
+             id="capacitor-7"
+             d="m 230,70 0,35 m -20,0 40,0 m 0,10 -40,0 m 20,0 0,35" />
+          <text
+             x="-205.88271"
+             y="118.6491"
+             font-size="24"
+             style="font-size:24px;fill:#000000;font-family:Verdana"
+             id="text3801-0"
+             transform="scale(-1,1)">C</text>
+          <g
+             inkscape:label="Inductro"
+             transform="matrix(0,-1.4373005,1.1964491,0,-499.95069,696.13514)"
+             id="g4326-9">
+            <g
+               transform="matrix(1.6841012,0,0,-1.9545391,-240.63064,1512.2662)"
+               inkscape:label="Inductro"
+               id="g4328-3-3">
+              <path
+                 d="m 360,530 h 13"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 inkscape:label="none"
+                 id="path4330-6-6"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="M 410,530 H 397"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 inkscape:label="none"
+                 id="path4332-7-0"
+                 inkscape:connector-curvature="0" />
+              <path
+                 d="m 379,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 sodipodi:cx="376"
+                 sodipodi:cy="530"
+                 sodipodi:end="3.1415927"
+                 sodipodi:open="true"
+                 sodipodi:rx="3"
+                 sodipodi:ry="3"
+                 sodipodi:start="0"
+                 sodipodi:type="arc"
+                 inkscape:label="arc"
+                 id="path4334-5-6" />
+              <path
+                 d="m 385,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 sodipodi:cx="382"
+                 sodipodi:cy="530"
+                 sodipodi:end="3.1415927"
+                 sodipodi:open="true"
+                 sodipodi:rx="3"
+                 sodipodi:ry="3"
+                 sodipodi:start="0"
+                 sodipodi:type="arc"
+                 inkscape:label="arc"
+                 id="path4336-3-2" />
+              <path
+                 d="m 391,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 sodipodi:cx="388"
+                 sodipodi:cy="530"
+                 sodipodi:end="3.1415927"
+                 sodipodi:open="true"
+                 sodipodi:rx="3"
+                 sodipodi:ry="3"
+                 sodipodi:start="0"
+                 sodipodi:type="arc"
+                 inkscape:label="arc"
+                 id="path4338-5-6" />
+              <path
+                 d="m 397,530 c 0,1.65685 -1.34315,3 -3,3 -1.65685,0 -3,-1.34315 -3,-3 0,0 0,0 0,0"
+                 style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+                 sodipodi:cx="394"
+                 sodipodi:cy="530"
+                 sodipodi:end="3.1415927"
+                 sodipodi:open="true"
+                 sodipodi:rx="3"
+                 sodipodi:ry="3"
+                 sodipodi:start="0"
+                 sodipodi:type="arc"
+                 inkscape:label="arc"
+                 id="path4340-6-1" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
